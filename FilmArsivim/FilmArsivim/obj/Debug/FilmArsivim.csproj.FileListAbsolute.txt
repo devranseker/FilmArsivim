@@ -1,0 +1,10 @@
+C:\Users\devra\Desktop\C# Projelerim\FilmArsivim\FilmArsivim\bin\Debug\FilmArsivim.exe.config
+C:\Users\devra\Desktop\C# Projelerim\FilmArsivim\FilmArsivim\bin\Debug\FilmArsivim.exe
+C:\Users\devra\Desktop\C# Projelerim\FilmArsivim\FilmArsivim\bin\Debug\FilmArsivim.pdb
+C:\Users\devra\Desktop\C# Projelerim\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.csproj.AssemblyReference.cache
+C:\Users\devra\Desktop\C# Projelerim\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.Form1.resources
+C:\Users\devra\Desktop\C# Projelerim\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.Properties.Resources.resources
+C:\Users\devra\Desktop\C# Projelerim\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.exe
+C:\Users\devra\Desktop\C# Projelerim\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.pdb
